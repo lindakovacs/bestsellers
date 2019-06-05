@@ -1,2 +1,0 @@
-# bestsellers
-Created with CodeSandbox
